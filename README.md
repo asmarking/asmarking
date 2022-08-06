@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Austin
-#### Design and Development
 
 Currently a senior studying math and computer science at the University of California San Diego. I really enjoy learning languages and frameworks like React.
 
