@@ -4,4 +4,4 @@ Currently a senior studying math and computer science at the University of Calif
 
 Skills: REACT / JS / JAVA / C++ / C
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asmarking)](https://github.com/anuraghazra/github-readme-stats)
+[![Austins GitHub stats](https://github-readme-stats.vercel.app/api?username=asmarking)](https://github.com/asmarking/github-readme-stats)
