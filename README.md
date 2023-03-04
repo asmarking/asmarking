@@ -4,4 +4,4 @@ I am a senior studying math and computer science at the University of California
 
 Skills: OPENGL / C/C++ / REACT / JS / JAVA
   
-[![Austins GitHub stats](https://github-readme-stats.vercel.app/api?username=asmarking)](https://github.com/asmarking/github-readme-stats)
+![Austins GitHub stats](https://github-readme-stats.vercel.app/api?username=asmarking&theme=dark&show_icons=true)
